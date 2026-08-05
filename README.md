@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -445,3 +444,4 @@ function cast(){
 </script>
 </body>
 </html>
+](https://claude.ai/chat/0febfbd8-716b-4993-b571-307d8ec4e52e)
